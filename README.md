@@ -17,7 +17,7 @@ PyTorch 기반 딥러닝 이론 및 실습 스터디입니다.
 | 01 | PyTorch 기초 | Tensor, Autograd, Module | [노트북](./week01/), [발표자료](./week01/slides.pdf) |
 | 02 | MLP 구현 | Custom Model & Dataset | [노트북](./week02/) |
 | 03 | CNN 기초 | Conv2D, Pooling, LeNet 구현 | - |
-| 04 | 학습 최적화 | Optimizer, Scheduler, Regularization | - |
+| 04 | 학습 최적화 | Optimizer, Scheduler, Regularization | [참고자료](https://docs.pytorch.org/docs/stable/optim.html) |
 | 05 | 모델 저장과 배포 | Save/Load, TorchScript, state_dict | - |
 | 06 | 파이토치 중급 | Data Customization | ... |
 | 07 | 파이토치 중급 |소규모 프로젝트 | ... |
